@@ -1,2 +1,2 @@
-# gatherer-tg - сборщик новостей из Telegram
+п»ї# gatherer-tg - СЃР±РѕСЂС‰РёРє РЅРѕРІРѕСЃС‚РµР№ РёР· Telegram
 
