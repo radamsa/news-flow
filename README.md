@@ -1,2 +1,2 @@
 # news-flow
-Educational and demonstration system for news collection and processing
+Учебно-демонстрационная система сбора и обработки нововстей
